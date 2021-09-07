@@ -1,13 +1,11 @@
-/** @jsx jsx */
-import { jsx } from "theme-ui"
+import React from "react";
 
-const Logo = (props) => (
-   <svg
+function Icon() {
+  return (
+    <svg
       xmlns="http://www.w3.org/2000/svg"
-       sx={{
-      height: props.size,
-      width: props.size,
-    }}
+      width="1024"
+      height="350"
       clipRule="evenodd"
     >
       <g>
@@ -46,8 +44,7 @@ const Logo = (props) => (
         ></path>
       </g>
     </svg>
-)
-
-Logo.defaultProps = {
-  color: "white",
+  );
 }
+
+export default Icon;
