@@ -1,18 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: `Free Help Center`,
+    title: `Supporto movity`,
     author: `Dominik Ferber`,
     // You'd normally use a description like
     // "Advice and answers by the MyCompany-Team"
-    description: `Get a free self-hosted Help Center like this one`,
+    description: `Consigli e risposte alle domande più frequenti`,
     siteUrl: `https://help.dferber.de/`,
-    language: "en",
+    language: "it",
     texts: {
-      allCollectionsText: "All Collections",
-      searchPlaceholderText: "Search for answers…",
-      lastModifiedText: "Last edited",
-      publishedOnText: "Published on",
-      writtenByText: "Written by",
+      allCollectionsText: "Tutte le categorie",
+      searchPlaceholderText: "Ricerca…",
+      lastModifiedText: "Ultima modifica",
+      publishedOnText: "Pubblicato il",
+      writtenByText: "Scritto da",
       articlesInCollectionZeroText: "articles in this collection",
       articlesInCollectionOneText: "article in this collection",
       articlesInCollectionTwoText: "articles in this collection",
