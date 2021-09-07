@@ -4,8 +4,8 @@ function Logo() {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="1024"
-      height="350"
+      width="102.4"
+      height="35"
       clipRule="evenodd"
     >
       <g>
