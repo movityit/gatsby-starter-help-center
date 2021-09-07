@@ -1,7 +1,7 @@
 export default {
   colors: {
     text: "#333",
-    headerBackground: "#607d8b",
+    headerBackground: "#3CCDBA",
     headerText: "white",
     paperBackgroundColor: "white",
     paperHoverBackgroundColor: "#fcfcfc",
@@ -12,7 +12,7 @@ export default {
     collectionBackgroundColor: "#EBEEF1",
     collectionHeading: "#3a3c4c",
     collectionDescription: "#565867",
-    breadcrumbLinkTextColor: "#4f5e6b",
+    breadcrumbLinkTextColor: "#FF0A0A",
     breadcrumbHoverLinkTextColor: "#242a30",
     breadcrumbTextColor: "#8f919d",
     articleTextColor: "#565867",
