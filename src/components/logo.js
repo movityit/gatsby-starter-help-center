@@ -7,7 +7,6 @@ function Logo(props) {
        width: props.size,
      }}
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   viewBox="0 0 301 103"
   version="1.1">
 <g id="surface1">
