@@ -3,9 +3,11 @@ import React from "react";
 function Logo() {
   return (
     <svg
+    sx={{
+       height: props.size,
+       width: props.size,
+     }}
       xmlns="http://www.w3.org/2000/svg"
-      width="102.4"
-      height="35"
       clipRule="evenodd"
     >
       <g>
