@@ -43,7 +43,7 @@
     "typeface-montserrat": "0.0.75",
     "typography": "^0.16.19",
     "typography-theme-moraga": "0.16.19",
-    "gatsby-theme-i18n": "^2.0.0"
+    "gatsby-theme-i18n": "^3.0.0"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
