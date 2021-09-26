@@ -22,9 +22,9 @@
 #         - file: ../content/dolphins/index.md
 #         - file: ../content/whales/index.md
 
-- id: introduction
-  title: Introduction
-  description: Brief overview of the free help center
+- id: introduzione
+  title: Introduzione
+  description: Introduzione a movity
   icon: "FaRegHandPeace"
   articles:
     - file: ../content/welcome/index.md
