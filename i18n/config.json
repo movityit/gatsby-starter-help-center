@@ -1,0 +1,34 @@
+[
+ {
+   "code": "it",
+   "hrefLang": "it-IT",
+   "name": "Italian",
+   "localName": "Italiano",
+   "langDir": "ltr",
+   "dateFormat": "DD/MM/YYYY"
+ },
+ {
+   "code": "fur",
+   "hrefLang": "fur-IT",
+   "name": "Friulian",
+   "localName": "Furlan",
+   "langDir": "ltr",
+   "dateFormat": "DD/MM/YYYY"
+ },
+ {
+   "code": "en",
+   "hrefLang": "en-US",
+   "name": "English",
+   "localName": "English",
+   "langDir": "ltr",
+   "dateFormat": "MM/DD/YYYY"
+ },
+ {
+   "code": "de",
+   "hrefLang": "de-DE",
+   "name": "German",
+   "localName": "Deutsch",
+   "langDir": "ltr",
+   "dateFormat": "DD.MM.YYYY"
+ }
+]
