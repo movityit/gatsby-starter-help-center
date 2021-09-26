@@ -3,12 +3,9 @@ import React from "react";
 function Logo(props) {
   return (
     <svg
-    sx={{
-       height: props.size,
-       width: props.size,
-     }}
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 301 103"
+    height="25px"
     >
       <g>
         <path
