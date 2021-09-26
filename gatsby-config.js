@@ -97,5 +97,15 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    `gatsby-theme-i18n`,
+    {
+     resolve: `gatsby-theme-i18n`,
+     options: {
+       defaultLang: `en`,
+       configPath: require.resolve(`./i18n/config.json`),
+     },
+   },
   ],
 }
+
+
