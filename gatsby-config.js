@@ -97,8 +97,5 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-   },
   ],
 }
-
-
