@@ -5,7 +5,7 @@ function Logo(props) {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 301 103"
-    height="25px"
+    height="10%"
     >
       <g>
         <path
