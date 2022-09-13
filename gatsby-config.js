@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: `Supporto movity`,
-    author: `Dominik Ferber`,
+    author: `movity`,
     // You'd normally use a description like
     // "Advice and answers by the MyCompany-Team"
     description: `Consigli e risposte alle domande più frequenti`,
-    siteUrl: `https://help.dferber.de/`,
+    siteUrl: `https://supporto.movity.it/`,
     language: "it",
     texts: {
       allCollectionsText: "Tutte le categorie",
@@ -84,7 +84,7 @@ module.exports = {
         name: `Help Center`,
         short_name: `GatsbyJS`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#ff0000`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `assets/favicon.png`,
